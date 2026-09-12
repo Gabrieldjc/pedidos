@@ -1,6 +1,6 @@
 ## Contexto
 Projeto que integra uma atividade do curso "Java Spring Professional" da plataforma [Devsuperior](https://devsuperior.com.br). 
-Sistema que recebe um código do pedido, calcula o valor total de um pedido a partir de um valor básico inserido, adicionado ao valor do frete(se tiver) de acordo com o valor total, subtraído de uma porcentagem de desconto inserida.
+Sistema que recebe um código do pedido, calcula o valor total de um pedido a partir de um valor básico inserido, adicionado ao valor do frete(se tiver), subtraído de uma porcentagem de desconto inserida.
 
 ## Conceitos aplicados
 - Injeção de dependências
